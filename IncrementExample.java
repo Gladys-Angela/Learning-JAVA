@@ -12,6 +12,15 @@ public class IncrementExample {
         //Postfix increment
         System.out.println("Postfix increment: " + (counter++));
         System.out.println("Current value: "+ counter);
+
+        //Lets see a practicalo example 
+
+        int score = 100;
+        System.out.println("\nGame Score Example");
+        System.out.println("Initial Score: " + score);//100
+        System.out.println("Hit target! Score: " +(++score));//101
+        System.out.println("Bonus point pending: " + (score++));//101
+        System.out.println("Final score: " + score);//102
     }
     
 }
