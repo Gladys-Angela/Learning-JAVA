@@ -26,6 +26,7 @@ public class ArithmeticExample{
         System.out.println("Final Price after $10 discount: " + finalPrice);
 
     }
+    
 
 
     
