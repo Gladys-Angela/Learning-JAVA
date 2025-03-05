@@ -1,4 +1,4 @@
-public class Loops {
+public class loops {
     public static void main(String[] args) {
         // 1. For Loop - when you know how many times to repeat.
         // syntax
