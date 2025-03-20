@@ -1,3 +1,19 @@
+// Mrs. Amina, a class six teacher gave out an end of term exam to her pupils. Her class has 
+// thirty-eight (38) pupils. For each score, a pupil can be graded as A, B,C,D and E 
+// according to the criteria below. 
+// Score | grade 
+// <=39    E 
+// >=40 and <=49 D 
+// >=50 and <=59 C 
+// >=60 and <=69 B
+// >=70 and <=100 A 
+
+// Write a java program to read all the 38 scores then grade them and display the scoresheet. 
+// Hint: The program does not need to read the names of pupils. 
+ 
+
+
+
 package Tests;
 public class GradeSy {
     public static void main(String[] args){

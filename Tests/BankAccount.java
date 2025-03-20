@@ -1,3 +1,9 @@
+// In a bank account management system, the details such as account number, account name, deposits 
+// and withdrawal are to be captured by the system. Write a java program to use two class methods- 
+// getAccountDetails () and Display (). The method getAccountDetails () will get values of account 
+// number, account name, deposits and withdrawal through the keyboard for three customers. The 
+// Display () method will calculate and display account number, account name, deposits, withdrawal and 
+// balance for the three customers. Hint balance=deposit-withdrawal.
 package Tests;
 import java.util.Scanner;
 

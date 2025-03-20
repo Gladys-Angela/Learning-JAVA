@@ -1,3 +1,4 @@
+
 package Tests;
 public class MultipleThree{
     public static void main(String[] args){

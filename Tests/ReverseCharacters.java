@@ -1,3 +1,7 @@
+// Write a java program to receive two string values then using StringBuilder class do the following: 
+// Reverses characters in the first string 
+//  Insert characters “abc” in the first string 
+// Concatenate thee two strings
 package Tests;
 
 import java. util.Scanner;
