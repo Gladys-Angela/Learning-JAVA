@@ -23,7 +23,7 @@ public class ScoreTest {
     System.out.println("\nSCORESHEET");
     System.out.println("Pupil No. \tScore\tGrade");
     
-    for(int i = 0; i < scores.length; i++){
+    for(int i = 1; i < scores.length; i++){
         char grade;
         int score = scores[i];
 
@@ -42,7 +42,7 @@ public class ScoreTest {
         }
         //print scoresheet
 
-        System.out.println((i + 1) + "\t\t" + score + "\t" + grade);
+        System.out.println(i  + "\t\t" + score + "\t" + grade);
 
     }
     
